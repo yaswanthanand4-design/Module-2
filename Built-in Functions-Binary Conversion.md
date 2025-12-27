@@ -16,5 +16,6 @@ print("Binary representation of",a, "is",b)
 ```
 
 ## Output
-![alt text](<Screenshot 2025-10-20 131215.png>)
+<img width="1726" height="988" alt="image" src="https://github.com/user-attachments/assets/c15ad084-9222-44ab-acae-a508f9b158b4" />
+
 ## Result
